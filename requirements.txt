@@ -13,6 +13,8 @@ requests==2.24.0
 scikit-learn==0.23.1
 scipy==1.5.0
 sklearn==0.0
+pandas=1.1.5
+seaborn=0.11.1
 threadpoolctl==2.1.0
 urllib3==1.25.9
 Werkzeug==1.0.1
